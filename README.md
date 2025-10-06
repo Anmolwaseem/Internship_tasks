@@ -1,8 +1,7 @@
 Internship Tasks
 
-This repository contains the internship tasks I worked on, focusing on practical applications of data analysis and machine learning. 
-Each task is implemented in Python using Pandas,
- NumPy, Matplotlib, Seaborn, and Scikit-learn.
+This repository contains the internship tasks I worked on, focusing on practical applications of data analysis and machine learning.
+Each task is implemented in Python using Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
 
 Task 1: Titanic Dataset Analysis
 
@@ -67,3 +66,87 @@ Built regression models (Linear Regression, Random Forest Regressor).
 Evaluated with metrics like RMSE and R² score.
 
 Outcome: Developed a predictive model that estimates house prices based on multiple features.
+
+Task 5: Term Deposit Subscription Prediction (Bank Marketing)
+
+Objective: Predict whether a bank customer will subscribe to a term deposit as a result of a marketing campaign.
+
+Dataset: Bank Marketing Dataset (UCI Machine Learning Repository)
+
+Instructions:
+
+Load and explore the dataset.
+
+Encode all categorical features properly.
+
+Train classification models (e.g., Logistic Regression, Random Forest).
+
+Evaluate the models using Confusion Matrix, F1-Score, and ROC Curve.
+
+Use SHAP or LIME to explain at least 5 model predictions.
+
+Skills Gained:
+
+Classification modeling
+
+Feature encoding
+
+Model interpretability (Explainable AI - XAI)
+
+Customer behavior analysis
+
+Task 6: Customer Segmentation Using Unsupervised Learning
+
+Objective: Cluster customers based on spending habits and propose marketing strategies tailored to each segment.
+
+Dataset: Mall Customers Dataset
+
+Instructions:
+
+Conduct Exploratory Data Analysis (EDA).
+
+Apply K-Means Clustering to segment customers.
+
+Use PCA or t-SNE to visualize the clusters.
+
+Suggest relevant marketing strategies for each identified segment.
+
+Skills Gained:
+
+Unsupervised learning (K-Means)
+
+Dimensionality reduction (PCA, t-SNE)
+
+Customer segmentation
+
+Strategy development based on data insights
+
+Task 7: Interactive Business Dashboard in Streamlit
+
+Objective: Develop an interactive dashboard for analyzing sales, profit, and segment-wise performance.
+
+Dataset: Global Superstore Dataset
+
+Instructions:
+
+Clean and prepare the dataset.
+
+Build a Streamlit dashboard with filters (Region, Category, Sub-Category).
+
+Display key performance indicators (KPIs) using charts:
+
+Total Sales
+
+Profit
+
+Top 5 Customers by Sales
+
+Skills Gained:
+
+Business Intelligence (BI) dashboarding
+
+Data storytelling
+
+User interactivity with Streamlit
+
+Visual KPI analysis
